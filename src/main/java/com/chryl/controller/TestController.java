@@ -20,6 +20,7 @@ public class TestController {
 //    public void show() {
         log.info("id:{} , url:{} , name:{}", fileId, fileUrl, fileName);
 //        log.info("id: , url: , name:");
+        System.out.println("1027");
     }
 
 
