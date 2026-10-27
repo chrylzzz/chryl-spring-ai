@@ -19,7 +19,7 @@ public class TestController {
     public void show(String fileId, String fileUrl, String fileName) {
 //    public void show() {
         log.info("id:{} , url:{} , name:{}", fileId, fileUrl, fileName);
-        log.info("id: , url: , name:");
+//        log.info("id: , url: , name:");
     }
 
 
