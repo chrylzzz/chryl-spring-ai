@@ -8,5 +8,7 @@ package com.chryl.controller;
 public class CherryController {
     public static void main(String[] args){
         System.out.println("my name is cherry");
+        // update by chryl on 20261027
+        // update
     }
 }
